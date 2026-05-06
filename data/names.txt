@@ -1,24 +1,4 @@
-Ahmed Mohamed
-Mohamed Ali
-Omar Ibrahim
-Ibrahim Mahmoud
-Mahmoud Hassan
-Hassan Hussein
-Hussein Khaled
-Khaled Mostafa
-Mostafa Youssef
-Youssef Karim
-Karim Amr
-Amr Ayman
-Ayman Hossam
-Hossam Sherif
-Sherif Tarek
-Tarek Waleed
-Waleed Sameh
-Sameh Ramy
-Ramy Nour
-Nour Fatma
-Fatma Aisha
+
 Aisha Mariam
 Mariam Sara
 Sara Nada
